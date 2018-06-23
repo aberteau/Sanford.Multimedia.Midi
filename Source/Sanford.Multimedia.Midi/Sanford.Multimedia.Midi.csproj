@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Sanford.Threading\Sanford.Threading.csproj" />
     <ProjectReference Include="..\Sanford.Collections\Sanford.Collections.csproj" />
     <ProjectReference Include="..\Sanford.Multimedia.Timers\Sanford.Multimedia.Timers.csproj" />
     <ProjectReference Include="..\Sanford.Multimedia\Sanford.Multimedia.csproj" />
