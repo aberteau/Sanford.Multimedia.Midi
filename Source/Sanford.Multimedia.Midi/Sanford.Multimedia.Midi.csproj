@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Sanford.Collections\Sanford.Collections.csproj" />
+    <ProjectReference Include="..\Sanford.Multimedia\Sanford.Multimedia.csproj" />
   </ItemGroup>
 
 </Project>

@@ -97,6 +97,10 @@
       <Project>{4269c72a-8d3a-4737-8f89-72eaa33ea9e1}</Project>
       <Name>Sanford.Multimedia.Midi</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Source\Sanford.Multimedia\Sanford.Multimedia.csproj">
+      <Project>{2111ffd1-a236-4a0b-bf94-7a7a75fbca18}</Project>
+      <Name>Sanford.Multimedia</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
