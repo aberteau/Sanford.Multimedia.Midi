@@ -89,6 +89,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Source\Sanford.Multimedia.Midi.UI\Sanford.Multimedia.Midi.UI.csproj">
+      <Project>{6199BC2D-192D-4C1E-A9B4-D153E8C11D0F}</Project>
+      <Name>Sanford.Multimedia.Midi.UI</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Source\Sanford.Multimedia.Midi\Sanford.Multimedia.Midi.csproj">
       <Project>{4269c72a-8d3a-4737-8f89-72eaa33ea9e1}</Project>
       <Name>Sanford.Multimedia.Midi</Name>

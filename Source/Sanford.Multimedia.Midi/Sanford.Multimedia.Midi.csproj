@@ -282,55 +282,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Sanford.Multimedia.Midi\Sequencing\Track Classes\Track.Test.cs" />
-    <Compile Include="Sanford.Multimedia.Midi\UI\DeviceDialog.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\DeviceDialog.Designer.cs">
-      <DependentUpon>DeviceDialog.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\InputDeviceDialog.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\InputDeviceDialog.Designer.cs">
-      <DependentUpon>InputDeviceDialog.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\OutputDeviceDialog.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\OutputDeviceDialog.Designer.cs">
-      <DependentUpon>OutputDeviceDialog.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\PianoControl.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\PianoControl.PianoKey.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\PianoControlDialog.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\PianoControlDialog.Designer.cs">
-      <DependentUpon>PianoControlDialog.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Sanford.Multimedia.Midi\UI\PianoKeyEventArgs.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Sanford.Multimedia.Midi\UI\DeviceDialog.resx">
-      <SubType>Designer</SubType>
-      <DependentUpon>DeviceDialog.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sanford.Multimedia.Midi\UI\InputDeviceDialog.resx">
-      <SubType>Designer</SubType>
-      <DependentUpon>InputDeviceDialog.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sanford.Multimedia.Midi\UI\OutputDeviceDialog.resx">
-      <SubType>Designer</SubType>
-      <DependentUpon>OutputDeviceDialog.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sanford.Multimedia.Midi\UI\PianoControlDialog.resx">
-      <SubType>Designer</SubType>
-      <DependentUpon>PianoControlDialog.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
@@ -362,5 +313,6 @@
   <ItemGroup>
     <None Include="Sanford.Multimedia.Midi\Messages\MessagesHierarchy.cd" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
