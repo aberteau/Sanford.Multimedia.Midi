@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequencerDemo", "Demo\Seque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidiWatcher", "Demo\MidiWatcher\MidiWatcher.csproj", "{752C27BA-E092-455F-9B3F-1221E13FAE40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanford.Multimedia.Midi", "Source\Sanford.Multimedia.Midi\Sanford.Multimedia.Midi.csproj", "{4269C72A-8D3A-4737-8F89-72EAA33EA9E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sanford.Multimedia.Midi", "Source\Sanford.Multimedia.Midi\Sanford.Multimedia.Midi.csproj", "{4269C72A-8D3A-4737-8F89-72EAA33EA9E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTester", "TimerTester\TimerTester.csproj", "{E1F82BBB-3654-4615-8E6D-5A3D9DC308BC}"
 EndProject
