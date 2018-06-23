@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanford.Multimedia", "Sourc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanford.Multimedia.Timers", "Source\Sanford.Multimedia.Timers\Sanford.Multimedia.Timers.csproj", "{4BB87D96-408D-40F4-B09B-84B049688B57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanford.Threading", "Sanford.Threading\Sanford.Threading.csproj", "{04113C80-9E60-48F0-84F1-5B564E6282CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{4BB87D96-408D-40F4-B09B-84B049688B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BB87D96-408D-40F4-B09B-84B049688B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BB87D96-408D-40F4-B09B-84B049688B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04113C80-9E60-48F0-84F1-5B564E6282CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04113C80-9E60-48F0-84F1-5B564E6282CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04113C80-9E60-48F0-84F1-5B564E6282CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04113C80-9E60-48F0-84F1-5B564E6282CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
