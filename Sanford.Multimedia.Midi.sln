@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanford.Multimedia.Midi.UI"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanford.Collections", "Source\Sanford.Collections\Sanford.Collections.csproj", "{8D2CA078-E060-49D4-BC93-903585287B83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanford.Multimedia", "Source\Sanford.Multimedia\Sanford.Multimedia.csproj", "{2111FFD1-A236-4A0B-BF94-7A7A75FBCA18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{8D2CA078-E060-49D4-BC93-903585287B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2CA078-E060-49D4-BC93-903585287B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D2CA078-E060-49D4-BC93-903585287B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2111FFD1-A236-4A0B-BF94-7A7A75FBCA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2111FFD1-A236-4A0B-BF94-7A7A75FBCA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2111FFD1-A236-4A0B-BF94-7A7A75FBCA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2111FFD1-A236-4A0B-BF94-7A7A75FBCA18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
